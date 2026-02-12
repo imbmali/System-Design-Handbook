@@ -7,7 +7,7 @@ public class Invoice {
 
     //Additional Functionality
     public void generateInvoice(){
-        // /Bjusdk;dd
+        //
         System.out.println("Invoice generated & printed for amount " +amount);
     }
 
